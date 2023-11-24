@@ -48,3 +48,8 @@ By following these tips, your productivity and efficiency as a developer will gr
 
 # 2023-11-23
 - "Keep it simple, stupid!"
+
+# 2023-11-24
+- Today's programming wisdom is to be a lifelong learner and to always stay up-to-date with the latest technologies and programming languages. This involves reading blogs, articles, and books, attending workshops and conferences, as well as participating in online forums and communities. By staying current, you can better understand the industry trends and develop the skills needed to succeed in your career.
+
+Another important aspect of programming wise is problem-solving skills. When faced with a challenging problem, take a step back, break it down into smaller components, use logic and creativity to come up with solutions, then implement and test your ideas. Practice makes perfect, so keep practicing and refining your problem solving skills to become a better programmer.
