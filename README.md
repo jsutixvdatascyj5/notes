@@ -99,3 +99,10 @@ This quote reminds us that optimizing code too early in the development process 
 
 # 2023-12-04
 - Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. First, make a list of all the tasks you need to complete, then prioritize them based on their importance and deadlines. Next, allocate time for each task, taking into account the complexity and your own availability. Finally, use tools and techniques, such as version control, task management, automated testing, to stay organised and make your code maintainable. Remember, continuous learning and adaptation are crucial for success in the ever-changing world of programming.
+
+# 2023-12-05
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your coding endeavors.
+
+1. Prioritize tasks: When you are working on a project, it is essential to determine which tasks are the most important and which can be completed later. By prioritizing your tasks in this way, you can ensure that you focus on the critical aspects of the project and not get sidetracked by less significant details. Use task management tools, such as Trello or Asana, to help keep track of your priorities. 
+ 2. Plan ahead: Planning is crucial for any project. When starting a new project or undertaking a large task, take the time to plan out your approach and break it down into smaller, manageable steps. Creating a detailed plan will not only help to keep you organized but also ensure you have a clear vision of what you need to achieve.  
+3. Stay organized: As a programmer, maintaining a clean and organized codebase is vital for efficiency and maintainability. Follow best practices, like using version control systems (like Git), organizing your code into well-structured folders, following coding conventions, using comment blocks to explain your logic, etc. These practices will make it easier for you and other developers to work with your codes.
