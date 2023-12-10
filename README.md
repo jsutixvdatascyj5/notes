@@ -125,3 +125,10 @@ This quote reminds us that optimizing code too early in the development process 
 
 # 2023-12-09
 - "Keep it simple, stupid!"
+
+# 2023-12-10
+- Today's programming wisdom is to be a lifelong learner. As technology continues to evolve at an unprecedented rate, it is crucial for programmers to constantly update their knowledge and skills. This means staying up-to-date with the latest programming languages, frameworks, and tools, as well as keeping an eye on emerging trends and technologies.
+
+To be successful in the programming field, you should also have a deep understanding of computer science principles, such as data structures, algorithms, software engineering, systems architecture, etc. These principles will help you create efficient, scalable, maintainable, secure, testable code that meets the needs of your users and stakeholders. 
+ - 学习新编程语言和技术的最新趋势。
+- 对计算机科学原理有深入的理解，如数据结构、算法、软件工程、系统架构等。 。-保持代码高效、可扩展、易于维护、安全且可测试。
