@@ -138,3 +138,6 @@ To be successful in the programming field, you should also have a deep understan
 
 Secondly, planning ahead is crucial. Before starting a project, think about the overall goal and break it down into smaller tasks. Create a plan with deadlines and milestones to keep yourself on track. Planning ahead will also help prevent last-minute panic and stress. 
  ..
+
+# 2023-12-12
+- "Keep it simple, stupid!"
