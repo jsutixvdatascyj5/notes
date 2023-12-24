@@ -186,3 +186,6 @@ Next, always plan beforehand. Write down your ideas and plans for your project, 
 Second, planning ahead is crucial. Before starting a new project or undertaking a large task, take the time to plan out your approach. Break the task down into smaller, manageable steps, then allocate time for each step. Having a clear plan will ensure you stay on track and avoid getting lost in the code. 
  <p>
 Finally, staying organized is essential. Use version control systems like Git to keep track of your code and collaborate with others. Organize your project into well-structured directories and files, using well named variables and functions. Keeping your workspace neat and organized will make it easier to find and fix any issues that may arise.
+
+# 2023-12-24
+- "Keep it simple, stupid!"
