@@ -296,3 +296,6 @@ First, prioritize your tasks. When you are working on a project, there will alwa
 
 # 2024-01-16
 - "Keep it simple, stupid!"
+
+# 2024-01-17
+- "Keep it simple, stupid!"
