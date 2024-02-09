@@ -399,3 +399,6 @@ Second, planning ahead is crucial for success. Before starting a new project or 
 
 Planning ahead is essential to avoid last-minute panic and stress. Break down your projects into smaller, manageable tasks and set realistic deadlines for each one. Using task management tools, such as Trello or Asana, can help keep you organized and on track. Remember to allocate enough time for breaks and to not get too bogged down in any one task. 
  - 来自NLP
+
+# 2024-02-09
+- "Keep it simple, stupid!"
